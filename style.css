@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Open+Sans:ital@1&family=Pacifico&family=Varela+Round&display=swap');
+
+html,body{
+    background-color: grey;
+    height:100%;
+    width : 100%;
+    font-family: 'Varela Round', sans-serif;
+
+
+}
+.button{
+    width:66px;
+    padding:20px;
+    margin:0 3px;
+    border:2px solid black;
+    border-radius:9px;
+    cursor:pointer;
+}
+.row{
+    margin:8px 0;
+}
+.row input{
+    font-size:24px;
+    margin:0px;
+    padding: 10px 10px;
+    border: 4px solid grey;
+    border-style: solid;
+}
